@@ -1,0 +1,9 @@
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\bin\Debug\Button.exe.config
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\bin\Debug\Button.exe
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\bin\Debug\Button.pdb
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\obj\Debug\Button.csprojResolveAssemblyReference.cache
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\obj\Debug\Button.Form1.resources
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\obj\Debug\Button.Properties.Resources.resources
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\obj\Debug\Button.csproj.GenerateResource.Cache
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\obj\Debug\Button.exe
+D:\МОЁ\Tasks\Task10_HTTP\Button\Button\obj\Debug\Button.pdb
